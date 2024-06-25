@@ -1,6 +1,6 @@
 <!-- README.md -->
 <div align="center">
-    <img src="https://portfolio.dgin.com.br/githubjsantosi-profile.svg" width="100%">
+    <img src="https://portfolio.dgin.com.br/githubjsantosi-profiles.svg" width="100%">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="icone-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
