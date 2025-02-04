@@ -6,6 +6,7 @@
   <img align="center" alt="icone-XD" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">   
   <img align="center" alt="icone-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icone-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icone-CSS" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="icone-WORDPRESS" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/174/174881.png">
   <img align="center" alt="icone-PHP" height="35" width="45" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="icone-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
